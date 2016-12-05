@@ -1,12 +1,6 @@
    
-   rưerwerwe
-   rew
-   rewrrewrew
-   rew
-   odle - the world's open source learning platform
+nguyễn hữu chinh
 
-Moodle <https://moodle.org> is a learning platform designed to provide
-educators, administrators and learners with a single 
    .-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
