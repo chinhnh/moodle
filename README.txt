@@ -1,4 +1,13 @@
-                                 .-..-.
+   
+   rưerwerwe
+   rew
+   rewrrewrew
+   rew
+   odle - the world's open source learning platform
+
+Moodle <https://moodle.org> is a learning platform designed to provide
+educators, administrators and learners with a single 
+   .-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
   | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
