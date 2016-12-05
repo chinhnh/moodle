@@ -2,10 +2,6 @@
 //fdsfsdfsdfdfsfdsfsd
 
 
-//fdsfsdfsdfdfsfdsfsd
-//fdsfsdfsdfdfsfdsfsd
-//fdsfsdfsdfdfsfdsfsd
-
 
 // This file is part of Moodle - http://moodle.org/
 //
